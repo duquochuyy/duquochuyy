@@ -27,7 +27,7 @@
 ---
 
 ###  :man_technologist: About Me :
-- ✨ I am a 3rd year student of the honor program of the University of Science.
+- ✨ I am a final-year student of the honor program of the University of Science.
 - 🌱 Currently interested in Software Engineer
 - 📫 Contact me: <a href="https://www.linkedin.com/in/duquochuyy/">LinkedIn Du Quoc Huy</a>
 
